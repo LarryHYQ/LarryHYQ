@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LarryHYQ
-- 🏫 I studied in Hangzhou Dianzi University
+- 🏫 I studied in Hangzhou Dianzi University & Institute of Computing Technology, Chinese Academy of Sciences. 
 - 👀 I’m interested in Deep Learning
 - 🌱 I’m currently learning Computer Vision
 - 📫 How to reach me larryhyq@gmail.com
