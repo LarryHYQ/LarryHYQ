@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LarryHYQ
 - 🏫 I studied in Hangzhou Dianzi University & Institute of Computing Technology, Chinese Academy of Sciences. 
-- 👀 I’m interested in Deep Learning
-- 🌱 I’m currently learning Computer Vision
+- 👀 I’m interested in Few shot generative model adaption
+- 🌱 I’m currently learning Multimodal
 - 📫 How to reach me larryhyq@gmail.com
 
 <!---
