@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LarryHYQ
-- 🏫 I studied in Hangzhou Dianzi University & Intelligent Information Processing Laboratory. 
-- 👀 I’m interested in Few shot generative model adaption
+- 🏫 I studied PhD in Intelligent Information Processing Laboratory (IIPL), Hangzhou Dianzi University 
+- 👀 I’m interested in generative models
 - 🌱 I’m currently learning Multimodal
 - 📫 How to reach me larryhyq@gmail.com
 
